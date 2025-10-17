@@ -15,3 +15,7 @@ QUESTIONS DESCRIPTIONS
 11. Reverse a number.
 12. Check whether a number is Palindrome or not.
 13. Check Whether a number is Amstrong or not.
+14. Check whether a number is perfect number or not.
+15. Find the factors of a number.
+16. Print the fibonacci series from 0 to N.
+17. 
