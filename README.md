@@ -18,4 +18,7 @@ QUESTIONS DESCRIPTIONS
 14. Check whether a number is perfect number or not.
 15. Find the factors of a number.
 16. Print the fibonacci series from 0 to N.
-17. 
+17. Find the smallest of Two numbers.
+18. Find the smallest between Three numbers.
+19. Find the power of a number.
+20. Check whether a number is perfect square or not.
