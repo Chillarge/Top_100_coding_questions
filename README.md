@@ -9,4 +9,6 @@ QUESTIONS DESCRIPTIONS
 5. Find the greatest of Two Numbers.
 6. Find the greatest between Three Numbers.
 7. Check where the year is leap year or not.
-8. check whether the number is Prime number or not.
+8. Check whether the number is Prime number or not.
+9. Check for the prime numbers between the range.
+10. Sum of digits of a number.
