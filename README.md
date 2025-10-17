@@ -14,3 +14,4 @@ QUESTIONS DESCRIPTIONS
 10. Sum of digits of a number.
 11. Reverse a number.
 12. Check whether a number is Palindrome or not.
+13. Check Whether a number is Amstrong or not.
