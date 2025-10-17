@@ -22,3 +22,14 @@ QUESTIONS DESCRIPTIONS
 18. Find the smallest between Three numbers.
 19. Find the power of a number.
 20. Check whether a number is perfect square or not.
+21. Find the factorial of a number.
+22. Find the maximum element in an array.
+23. Find the second maximum element in an array.
+24. Find the smallest element in an array
+25. Find the second smallest element in an array.
+26. Find the sum of all elements in an array.
+27. Find the products of all elements in an array.
+28. Find the sum of elements at even index in an array.
+29. Find the sum of elements at add index in an array.
+30. Count the number of elements at even index in an array.
+31. Count the number of elements at odd index in an array.
