@@ -1,7 +1,7 @@
 package Top_100_coding_questions;
 
 import java.util.Scanner;
-
+// Check Whether a number is palindrome or not
 public class Question12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,3 +22,4 @@ public class Question12 {
         }
     }
 }
+
