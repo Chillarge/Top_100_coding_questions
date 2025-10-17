@@ -30,6 +30,6 @@ QUESTIONS DESCRIPTIONS
 26. Find the sum of all elements in an array.
 27. Find the products of all elements in an array.
 28. Find the sum of elements at even index in an array.
-29. Find the sum of elements at add index in an array.
+29. Find the sum of elements at odd index in an array.
 30. Count the number of elements at even index in an array.
 31. Count the number of elements at odd index in an array.
