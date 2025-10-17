@@ -13,4 +13,4 @@ QUESTIONS DESCRIPTIONS
 9. Check for the prime numbers between the range.
 10. Sum of digits of a number.
 11. Reverse a number.
-12. Palindrome of a number.
+12. Check whether a number is Palindrome or not.
