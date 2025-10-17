@@ -12,3 +12,5 @@ QUESTIONS DESCRIPTIONS
 8. Check whether the number is Prime number or not.
 9. Check for the prime numbers between the range.
 10. Sum of digits of a number.
+11. Reverse a number.
+12. Palindrome of a number.
