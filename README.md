@@ -33,3 +33,8 @@ QUESTIONS DESCRIPTIONS
 29. Find the sum of elements at odd index in an array.
 30. Count the number of elements at even index in an array.
 31. Count the number of elements at odd index in an array.
+32. Find the dublet in an array whose sum is equal to the target.
+33. Reverse an array.
+34. Rotate the given array by K steps.
+35. Check where an array is sorted or not.
+36. Sort the elements in an array.
